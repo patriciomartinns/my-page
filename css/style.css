@@ -1,0 +1,26 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    width: 100%;
+}
+
+.foto-central img {
+    width: 20%;
+    border-radius: 1rem;
+    display: block;
+    margin: 3rem auto;
+}
+
+main {
+    width: 65%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+main p {
+    font-size: 1.1rem;
+    font-weight: 400;
+}
