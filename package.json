@@ -1,0 +1,9 @@
+{
+  "name": "my-page",
+  "version": "0.0.1",
+  "description": "minha pagina web",
+  "main": "index.html",
+  "repository": "https://github.com/patriciomartinns/my-page.git",
+  "author": "patriciomartinns <eupatriciomartins@gmail.com>",
+  "license": "MIT"
+}
