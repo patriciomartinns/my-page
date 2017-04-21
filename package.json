@@ -3,10 +3,15 @@
   "version": "0.0.1",
   "description": "minha pagina web",
   "main": "index.html",
+  "scripts": {
+    "gulp": "gulp"
+  },
   "repository": "https://github.com/patriciomartinns/my-page.git",
   "author": "patriciomartinns <eupatriciomartins@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "eslint": "^3.19.0"
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.2.0"
   }
 }
