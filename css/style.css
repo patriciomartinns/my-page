@@ -3,29 +3,16 @@
     margin: 0;
 }
 
-.main-navigation {
-    background-image: url(../img/fundo.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100vw;
-    height: 100vh;
-    display:flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
 p {
     text-align: center;
-    color: white;
+    color: black;
     font-size: 1.1rem;
     font-weight: 400;
     width: 50%;
 }
 
 p a {
-    color: white;
+    color: black;
 }
 
 p a:hover {
