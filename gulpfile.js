@@ -1,4 +1,4 @@
-var gulp = require('gulp'),
+const gulp = require('gulp'),
     imagemin = require('gulp-imagemin');
 
 gulp.task('compress-images', function() {
