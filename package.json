@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-imagemin": "^3.2.0"
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
   }
 }
